@@ -1,0 +1,5 @@
+@article{REPO319,
+    author = "Wang, A and Chen, H and Liu, L and Chen, K and Lin, Z and Han, J and Ding, G",
+    journal = "arXiv preprint arXiv:2405.14458",
+    title = "{YOLOv10: Real-Time End-to-End Object Detection. arXiv 2024}"
+}
